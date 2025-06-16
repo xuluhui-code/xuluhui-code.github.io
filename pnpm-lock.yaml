@@ -147,6 +147,9 @@ importers:
       '@biomejs/biome':
         specifier: 1.9.4
         version: 1.9.4
+      '@iconify-json/codex':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@iconify-json/simple-icons':
         specifier: ^1.2.38
         version: 1.2.38
@@ -1091,6 +1094,9 @@ packages:
 
   '@fontsource/roboto@5.2.5':
     resolution: {integrity: sha512-70r2UZ0raqLn5W+sPeKhqlf8wGvUXFWlofaDlcbt/S3d06+17gXKr3VNqDODB0I1ASme3dGT5OJj9NABt7OTZQ==}
+
+  '@iconify-json/codex@1.2.0':
+    resolution: {integrity: sha512-SyaMOhwa4sZtT5wKNHgY7vWxyiLmBEnrJfllFfkqmjYBO/lhPbDkTZXrZXVCrKvUZiM8WQmeUo2/8qLr9k9zug==}
 
   '@iconify-json/fa6-brands@1.2.5':
     resolution: {integrity: sha512-U/iFfziz6jSN9zArOJZYTtoj2tQyh6MxPdI8M84DQ2kEulPaj8j+h9bqvjmzszNHmD7v+kmmKd/MLkMKk+3Zuw==}
@@ -6382,6 +6388,10 @@ snapshots:
   '@fontsource-variable/jetbrains-mono@5.2.5': {}
 
   '@fontsource/roboto@5.2.5': {}
+
+  '@iconify-json/codex@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/fa6-brands@1.2.5':
     dependencies:
