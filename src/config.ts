@@ -38,8 +38,8 @@ export const siteConfig: SiteConfig = {
 		// }
 		// icon: 'codex:loader',
 		{
-			src: '/favicon/icon.png',
-		}
+			src: "/favicon/icon.png",
+		},
 	],
 };
 
