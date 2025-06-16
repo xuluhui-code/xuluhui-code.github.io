@@ -36,6 +36,7 @@
     "astro": "5.8.1",
     "astro-expressive-code": "^0.41.2",
     "astro-icon": "^1.1.5",
+    "biome": "^0.3.3",
     "hastscript": "^9.0.1",
     "katex": "^0.16.22",
     "markdown-it": "^14.1.0",
