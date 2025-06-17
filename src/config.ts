@@ -79,6 +79,11 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/xuluhui-code",
 		},
 		{
+			name: "QQ",
+			icon: "fa6-brands:qq",
+			url: "http://wpa.qq.com/msgrd?v=3&uin=3895909227&site=qq&menu=yes",
+		},
+		{
 			name: "Luogu",
 			icon: "simple-icons:codecrafters",
 			url: "https://www.luogu.com.cn/user/1260214",
